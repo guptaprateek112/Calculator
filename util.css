@@ -1,0 +1,26 @@
+.text-center{
+  text-align: center;
+}
+  .bg-red{
+    background: red;
+  }
+.color-button
+{
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  
+}
+.mx-auto{
+  margin: auto;
+}
+.flex{
+  display: flex;
+  
+} 
+.flex-col{
+  flex-direction: column;
+}
+.items-center{
+  align-items: center;
+}
